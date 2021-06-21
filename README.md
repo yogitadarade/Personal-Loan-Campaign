@@ -12,6 +12,7 @@ Following task were carried out
 8.	Actionable Insights & Recommendations.
 9.	EDA of misclassified data and identifying any patterns in misclassification.
 
+For detailed notebook click [here](https://github.com/yogitadarade/Personal-Loan-Campaign/blob/3a6f616c6807162cb2de6f05b5b0c2fc3eb3231e/personal-loan-logistic-regression-decision-tree.ipynb)
 
 **Context**
 
